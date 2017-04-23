@@ -1,0 +1,1 @@
+A simple springboot application with single health check api.
